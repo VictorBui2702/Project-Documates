@@ -31,5 +31,5 @@ It was brought up when I was studying BA and could not find any source which pro
 
 ### Landing Page
 
-Check out the landing page at this link: 
+Check out the landing page at this link: http://documates.netlify.com 
 
